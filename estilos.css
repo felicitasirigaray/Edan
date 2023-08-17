@@ -1,0 +1,330 @@
+.background-gray{
+    background-color:#E0E4DE;
+}
+
+.no-bulletpoints{
+    list-style-type: none;
+}
+
+.imagen-size{
+    width: 100%;
+}
+
+.title-image-size{
+    width: 500px;
+}
+
+.logo-small{
+    height:40px;
+    align-items: start;
+    justify-content:start;
+}
+
+.principal{
+    width: 100%;
+    height: 350px;
+    display:flex;
+    flex-flow:column wrap;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    color:#E0E4DE;
+}
+
+.subtitulo-principal{
+    font-size: 19px;
+    }
+
+.center{
+    width:50%;
+    display:flex;
+    flex-flow:row wrap;
+    justify-content: center;
+    align-items: center;
+    }
+
+.justify-content-center{
+    display: flex;
+    display: inline-block;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen-size2{
+    width: 500px;
+    display:flex;
+}
+
+nav .justify-content{
+    display:flex;
+    width:100%;
+    height:20px;
+    flex-flow: row nowrap;
+    justify-content:space-evenly;
+    align-items:center;
+    background-color: #E0E4DE;
+}
+
+.nav-text{color: black;
+    text-decoration: none;
+}
+
+.logo-de-instagram{ width: 50px;
+    border-radius: 20px;
+}
+
+.logo-ubicacion{ width: 90px;
+    border-radius: 100%;
+}
+
+.align-items-center{ align-items: baseline;
+}
+
+nav{
+    background-color:#E0E4DE;
+    height: 30px;
+}
+
+main .section1{
+    width:100%;
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content: space-evenly;
+    height: 1000px;
+    align-items:baseline;
+}
+
+.article1{
+    color:#E0E4DE;
+    display:flex;
+    flex-flow: row wrap;
+    width:45%;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
+.article2{
+    color:#E0E4DE;
+    flex-flow: row wrap;
+    display: flex;
+    width:45%;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
+.article-text {
+    color:#E0E4DE;
+    width:100%;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
+
+.section-principal{margin-bottom: 50px;
+}
+.footer{
+    background-color:#E0E4DE;
+    display:flex;
+    flex-flow:row wrap;
+    width:100%;
+    height:100px;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.logo-spotify{width:80px;
+    height:80px;
+    border-radius: 100%;
+    align-items: end;
+} 
+
+.spotify-section{width:80%;
+    height:150px;
+    display:flex;
+    flex-flow:row wrap;
+    align-items:center;
+    justify-content:center;
+} 
+
+.spotify-section1{ width:300px;
+align-items:center;
+justify-content:end;
+align-items:end;
+} 
+
+.spotify-section2{ width:70%;
+align-items:center;
+justify-content:start;
+color:#E0E4DE;
+text-align:start;
+}  
+                
+.article3{
+    width:100%;
+    height:500px;
+    display:flex;
+    flex-flow:row wrap;
+    color:#E0E4DE;
+    justify-content:space-around;
+    align-items:baseline;
+} 
+
+.primera-parte {width:40%;
+    display:flex;
+    color:#E0E4DE;
+    text-align:start;
+    align-items:end;
+
+} 
+
+.segunda-parte{
+    width:50%;
+    display:flex;
+    flex-flow:column wrap;
+    color:#E0E4DE;
+    text-align:start;
+} 
+
+.principal-experiencias
+   {width:100%;
+    height: 200px;
+    display:flex;
+    flex-flow: column nowrap;
+    color:#E0E4DE;
+    align-items:center;
+    justify-content:center;
+} 
+
+.texto-curso-bartender{
+    display:flex;
+    flex-flow:column nowrap;
+    color:#E0E4DE;
+    width:400px;
+    text-align: start;
+    justify-content:center;
+    align-items:start;
+} 
+
+.imagen-curso-sommelier{
+    width: 100%;
+    margin:50px;
+    padding: 50px;
+} 
+
+.texto-curso-sommelier{
+    display: flex;
+    flex-flow:column nowrap;
+    color:#E0E4DE;
+    width: 400px;
+    text-align:end;
+    justify-content:center;
+    align-items:end;
+} 
+
+.imagen-curso-bartender{
+    width: 1000px;
+    margin:50px;
+    padding: 50px;
+} 
+
+.texto-curso-maridaje{
+    display:flex;
+    flex-flow:column nowrap;
+    color:#E0E4DE;
+    width:400px;
+    text-align: start;
+    justify-content:center;
+    align-items:start;
+} 
+
+.imagen-curso-maridaje{
+    width: 100%;
+    margin:50px;
+    padding: 50px;
+} 
+
+.seccion-experiencia
+    {width:100%;
+    height:550px;
+    display:flex;
+    flex-flow:row wrap;
+    color:#E0E4DE;
+    align-items:center;
+    justify-content:space-evenly;
+} 
+
+.experiencia1{width:50%;
+    display:flex;
+    flex-flow: column wrap;
+    color:#E0E4DE;
+    align-items:end;
+    justify-content:center;
+    text-align:end;
+} 
+
+.experiencia-image
+{height: 50%;
+justify-content: end;
+
+} 
+
+.seccion-experiencia2
+{width:100%;
+    height:550px;
+    display:flex;
+    flex-flow:row wrap;
+    align-items:center;
+    justify-content:space-evenly;
+} 
+
+.experiencia2
+    {width:50%;
+    display:flex;
+    flex-flow: column wrap;
+    color:#E0E4DE;
+    align-items:start;
+    justify-content:center;
+    text-align:start;
+} 
+
+.experiencia-image
+{height: 500px;
+} 
+
+.logo-whatsapp{ width: 60px;
+    border-radius: 100%;
+} 
+
+@media(max-width=576){
+.title-image-size{width: 200px;} 
+} 
+
+.ambas-partes{ display:flex;
+    width:100%;
+    flex-flow:row nowrap;
+    align-items:center;
+    justify-content:space-evenly;
+} 
+
+.imagen-vino{width: 250px;
+    padding: 15px;
+    margin: 15px;
+} 
+
+.subtilos-productos
+{color:#E0E4DE;
+} 
+
+.imagen-experiencia1{height:400px;
+    width:300px;
+    padding: 15px;
+    margin: 15px;
+} 
+
+.display-flex{display:flex;
+    flex-flow: row nowrap
+    justify-content: end;
+} 
